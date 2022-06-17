@@ -1,0 +1,22 @@
+{
+  "name": "nodemail",
+  "version": "1.0.0",
+  "description": "Nodemail Testing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berviantoleo/nodemail.git"
+  },
+  "author": "Bervianto Leo Pratama",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/berviantoleo/nodemail/issues"
+  },
+  "homepage": "https://github.com/berviantoleo/nodemail#readme",
+  "dependencies": {
+    "nodemailer": "^6.7.5"
+  }
+}
