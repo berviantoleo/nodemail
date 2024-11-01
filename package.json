@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/berviantoleo/nodemail#readme",
   "dependencies": {
-    "nodemailer": "^6.9.15"
+    "nodemailer": "^6.9.16"
   }
 }
